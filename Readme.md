@@ -4,11 +4,11 @@
 ### Steps:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) In order to generate `{{api_key}}` and `{{api_secret}}` you need to log into [Precisely](https://cloud.precisely.com/) with the credentials provided to you.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![generate api-1](https://user-images.githubusercontent.com/86220719/221710974-e328e1f8-6f00-4472-a946-8668d8c4ac2d.PNG)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) In the Manage API Key section you can generate the `{{api_key}}` and `{{api_secret}}`.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![generate api-2](https://user-images.githubusercontent.com/86220719/221319205-f3e9f03b-7110-4b3a-9fe5-6c98d9d8283e.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![generate api-2](https://user-images.githubusercontent.com/86220719/221710975-bf4b24a3-b0b4-4738-a86d-747ac7e2657e.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You can save them in your system to get responses from different services provided by Precisely.
 
