@@ -21,7 +21,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.1 Use the following URL to open the Data Integrity Suite Geo addressing   collection in the postman in your web browser:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Postman|Collection
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Postman|Collection](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.postman.com%2Fcrimson-meteor-968912%2Fworkspace%2Fprecisely-apis%2Frequest%2F25830357-12690ded-d392-4212-8ff9-09ffdb3a1e9f&data=05%7C01%7CTanha.Talavia%40precisely.com%7C4deab3c1e4a2492c596008db15ced9eb%7Cc0a2941c29154bcaaa4ce8880dc77f7f%7C0%7C0%7C638127750443586783%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=2J3UyfAK8ZJECrG5gzwqHiFVjTa%2Fmih%2Fp9zNt7b9mmE%3D&reserved=0)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.2 Now you can export the collection from the web browser
 
