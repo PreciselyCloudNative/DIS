@@ -41,7 +41,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you don’t have the values already generated you can use our [documentation](#pre-req) to generate the `{{api_key}}` and `{{api_secret}}` values.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![dis-api-5](https://user-images.githubusercontent.com/86220719/221319556-0be7eebc-1f19-4507-ab1c-510ecac8baee.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![dis-api-5](https://user-images.githubusercontent.com/86220719/221714261-9a87511a-c3f6-43e0-9d3d-0017369dbc65.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3 Now you can Generate Token.
 
