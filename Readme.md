@@ -1,6 +1,6 @@
 # Data Integrity Suite
 
-## * Pre req
+## Pre req
 ### Steps:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) In order to generate `{{api_key}}` and `{{api_secret}}` you need to log into [Precisely](https://cloud.precisely.com/) with the credentials provided to you.
 
@@ -39,7 +39,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2 Now you need to add the values of the `{{api_key}}` and `{{api_secret}}` to the variables CURRENT VALUE in the collection and save it.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you don’t have the values already generated you can use our [documentation](#* pre req) to generate the `{{api_key}}` and `{{api_secret}}` values.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you don’t have the values already generated you can use our [documentation](#pre-req) to generate the `{{api_key}}` and `{{api_secret}}` values.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![dis-api-5](https://user-images.githubusercontent.com/86220719/221319556-0be7eebc-1f19-4507-ab1c-510ecac8baee.png)
 
