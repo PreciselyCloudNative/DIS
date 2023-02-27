@@ -45,8 +45,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3 Now you can Generate Token.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Here you can see we have added the value from variables in `{{api_key}}` and `{{api_secret}}`, so we don’t need to update the values here, it
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; will always have the updated values from the variables which we set.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Here you can see we have added the value from variables in `{{api_key}}` and `{{api_secret}}`, so we don’t need to update the values here, it will always have the updated values from the variables which we set.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Also note that this token expires in ~60 minutes.
 
