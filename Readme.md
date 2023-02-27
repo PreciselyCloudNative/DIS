@@ -25,17 +25,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.2 Now you can export the collection from the web browser
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![dis-api-1](https://user-images.githubusercontent.com/86220719/221319549-22db57f7-7db5-4b20-9d6b-73726e90d8d9.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![dis-api-1](https://user-images.githubusercontent.com/86220719/221712170-98cc1540-5d81-4510-82e5-7ca48d90010d.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![dis-api-2](https://user-images.githubusercontent.com/86220719/221319550-27b6e986-5b80-43eb-803b-1ac9d903b840.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![dis-api-2](https://user-images.githubusercontent.com/86220719/221712173-38003161-132b-46fe-9714-d04bd80eb569.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.3 Now you can import that collection in your Postman
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![dis-api-3](https://user-images.githubusercontent.com/86220719/221319552-367a516c-5b99-4898-9e8e-aee8ff0fcabc.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![dis-api-3](https://user-images.githubusercontent.com/86220719/221712175-c0190be1-e035-4377-9b8d-6e75e2000e30.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Now you have the Data Integrity Suite Geo Addressing collection in your Postman.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![dis-api-4](https://user-images.githubusercontent.com/86220719/221319555-4494f039-a782-4155-b721-5ab3cc3080be.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![dis-api-4](https://user-images.githubusercontent.com/86220719/221712178-0e802e35-f892-486c-96fc-138c67c9235a.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2 Now you need to add the values of the `{{api_key}}` and `{{api_secret}}` to the variables CURRENT VALUE in the collection and save it.
 
