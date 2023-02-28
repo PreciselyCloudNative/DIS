@@ -4,19 +4,9 @@ Precisely Data Integration Suite offers different Geo Addressing services that c
 
 [Service Description – Geo Addressing - Precisely](https://www.precisely.com/legal/data-integrity-suite-service-information/service-description-geo-addressing)
 
-## Pre req
-### Steps:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) In order to generate `{{api_key}}` and `{{api_secret}}` you need to log into [Precisely](https://cloud.precisely.com/) with the credentials provided to you.
+## Prerequisites
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![generate api-1](https://user-images.githubusercontent.com/86220719/221710974-e328e1f8-6f00-4472-a946-8668d8c4ac2d.PNG)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) In the Manage API Key section you can generate the `{{api_key}}` and `{{api_secret}}`.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![generate api-2](https://user-images.githubusercontent.com/86220719/221710975-bf4b24a3-b0b4-4738-a86d-747ac7e2657e.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You can save them in your system to get responses from different services provided by Precisely.
-
-
+[Precisely DIS API Key and API Secret](#generate-api-key-and-api-secret)
 
 ## 1. Using Postman
 
@@ -43,7 +33,7 @@ Precisely Data Integration Suite offers different Geo Addressing services that c
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2 Now you need to add the values of the `{{api_key}}` and `{{api_secret}}` to the variables CURRENT VALUE in the collection and save it.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you don’t have the values already generated you can use our [documentation](#pre-req) to generate the `{{api_key}}` and `{{api_secret}}` values.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you don’t have the values already generated you can use our [documentation](#generate-api-key-and-api-secret) to generate the `{{api_key}}` and `{{api_secret}}` values.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![dis-api-5](https://user-images.githubusercontent.com/86220719/221714261-9a87511a-c3f6-43e0-9d3d-0017369dbc65.png)
 
@@ -62,3 +52,16 @@ Precisely Data Integration Suite offers different Geo Addressing services that c
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![dis-api-7](https://user-images.githubusercontent.com/86220719/221319560-f0776429-86d7-439d-8a4f-72f610b6cad9.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You can similarly get responses for all the services in the collection.
+
+## Generate API Key and API Secret
+
+### Steps:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) In order to generate `{{api_key}}` and `{{api_secret}}` you need to log into [Precisely](https://cloud.precisely.com/) with the credentials provided to you.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![generate api-1](https://user-images.githubusercontent.com/86220719/221710974-e328e1f8-6f00-4472-a946-8668d8c4ac2d.PNG)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) In the Manage API Key section you can generate the `{{api_key}}` and `{{api_secret}}`.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![generate api-2](https://user-images.githubusercontent.com/86220719/221710975-bf4b24a3-b0b4-4738-a86d-747ac7e2657e.png)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You can save them in your system to get responses from different services provided by Precisely.
