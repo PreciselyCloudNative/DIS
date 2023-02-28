@@ -1,4 +1,8 @@
-# Data Integrity Suite
+# Data Integrity Suite- Geo Addressing
+
+Precisely Data Integration Suite offers different Geo Addressing services that can be used to convert physical addresses into geographic coordinates. These services include address validation, standardization, geocoding, and reverse geocoding.
+
+[Service Description – Geo Addressing - Precisely](https://www.precisely.com/legal/data-integrity-suite-service-information/service-description-geo-addressing)
 
 ## Pre req
 ### Steps:
