@@ -43,13 +43,13 @@ Precisely Data Integration Suite offers different Geo Addressing services that c
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Also note that this token expires in ~60 minutes.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![dis-api-6](https://user-images.githubusercontent.com/86220719/221319558-64213098-6f9e-44a5-a36d-efea9324de0c.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![dis-api-6](https://user-images.githubusercontent.com/86220719/221723495-260b3864-f0be-47a9-948e-a3286a6f1e01.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.4 You can now hit the send button and get responses from the services.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Note that here too you don’t need to set the value of the token that we generated as we are using a variable for it which will automatically be updated whenever you hit the send button .
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![dis-api-7](https://user-images.githubusercontent.com/86220719/221319560-f0776429-86d7-439d-8a4f-72f610b6cad9.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![dis-api-7](https://user-images.githubusercontent.com/86220719/221723497-7d9d9261-4073-4114-a955-46d737c49b7c.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You can similarly get responses for all the services in the collection.
 
