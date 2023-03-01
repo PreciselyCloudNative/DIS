@@ -6,7 +6,7 @@ Precisely Data Integration Suite offers different Geo Addressing services that c
 
 ## Swagger UI
 
-Explore the powerful Data Integrity Suite Geo Addressing APIs to enhance the accuracy and completeness of your location data.
+Explore the powerful Data Integrity Suite Geo Addressing APIs to enhance the accuracy and completeness of your location data.<br>
 [Precisely DIS API Swagger UI](https://dis-developer.api.cloud.precisely.com/swagger-ui/index.html#/)
 
 ## Prerequisites
