@@ -1,4 +1,4 @@
-# Data Integrity Suite- Geo Addressing
+# Nikhil
 
 Precisely Data Integration Suite offers different Geo Addressing services that can be used to convert physical addresses into geographic coordinates. These services include address validation, standardization, geocoding, and reverse geocoding.
 
