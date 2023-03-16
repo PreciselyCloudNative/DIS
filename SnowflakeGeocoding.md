@@ -5,10 +5,4 @@ The Geocode API for Snowflake is a middleware that provides a platform for a Sno
 
 Refer to [Geocode API - Snowflake - Precisely](https://docs.precisely.com/docs/sftw/precisely-apis/main/en-us/webhelp/apis/GeoAddress/Introduction.html) to get further information about Geocode API for Snowflake
 
-
-<iframe src="https://syncsortinc-my.sharepoint.com/personal/mayank_kasturia_precisely_com/_layouts/15/embed.aspx?UniqueId=109662cc-1fcf-470f-8188-0c88cf918813&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="800" height="450" frameborder="0" scrolling="no" allow="autoplay; fullscreen" title="Snowflake Geocoding.mp4"></iframe>
-
-<video width="640" height="480" controls>
-  <source src="[https://example.com/my-video.mp4](https://syncsortinc-my.sharepoint.com/personal/mayank_kasturia_precisely_com/_layouts/15/embed.aspx?UniqueId=109662cc-1fcf-470f-8188-0c88cf918813&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+(https://user-images.githubusercontent.com/86220719/225773756-29ca86e4-bb5c-48c7-b036-eaa7df61a88a.mp4)
