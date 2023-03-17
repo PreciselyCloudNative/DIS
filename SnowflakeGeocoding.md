@@ -8,3 +8,5 @@ Refer to [Geocode API - Snowflake - Precisely](https://docs.precisely.com/docs/s
 You can refer to this video
 
 https://user-images.githubusercontent.com/86220719/225773756-29ca86e4-bb5c-48c7-b036-eaa7df61a88a.mp4
+
+https://youtu.be/u9SxO2E_rSE
