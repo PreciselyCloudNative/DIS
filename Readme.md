@@ -70,4 +70,5 @@ Explore the powerful Data Integrity Suite Geo Addressing APIs to enhance the acc
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You can similarly get responses for all the services in the collection.
 <br>
+<br>
 <img src="https://user-images.githubusercontent.com/86220719/221712173-38003161-132b-46fe-9714-d04bd80eb569.png" width="500" height="300">
