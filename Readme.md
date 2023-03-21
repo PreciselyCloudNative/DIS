@@ -49,6 +49,7 @@ Explore the powerful Data Integrity Suite Geo Addressing APIs to enhance the acc
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.3 Now you can import that collection in your Postman
 
+
 <br>
 <img src="https://user-images.githubusercontent.com/86220719/221712175-c0190be1-e035-4377-9b8d-6e75e2000e30.png" width="90%" height="80%">
 <br>
