@@ -81,7 +81,6 @@ Explore the powerful Data Integrity Suite Geo Addressing APIs to enhance the acc
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Note that here too you don’t need to set the value of the token that we generated as we are using a variable for it which will automatically be updated whenever you hit the send button .
 
 <br>
-<br>
 <img src="https://user-images.githubusercontent.com/86220719/221723497-7d9d9261-4073-4114-a955-46d737c49b7c.png" width="90%" height="80%">
-
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You can similarly get responses for all the services in the collection.
