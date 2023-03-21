@@ -55,7 +55,7 @@ Explore the powerful Data Integrity Suite Geo Addressing APIs to enhance the acc
 
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/86220719/221712175-c0190be1-e035-4377-9b8d-6e75e2000e30" width="90%" height="80%">
+<img src="https://user-images.githubusercontent.com/86220719/221712175-c0190be1-e035-4377-9b8d-6e75e2000e30.png" width="90%" height="80%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![dis-api-3](https://user-images.githubusercontent.com/86220719/221712175-c0190be1-e035-4377-9b8d-6e75e2000e30.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Now you have the Data Integrity Suite Geo Addressing collection in your Postman.
