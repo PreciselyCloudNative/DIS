@@ -23,6 +23,7 @@ Explore the powerful Data Integrity Suite Geo Addressing APIs to enhance the acc
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) In the Manage API Key section you can generate the `{{api_key}}` and `{{api_secret}}`.
 
 <br>
+<br>
 <img src="https://user-images.githubusercontent.com/86220719/221710975-bf4b24a3-b0b4-4738-a86d-747ac7e2657e.png" width="90%" height="80%">
 <br>
 
@@ -40,6 +41,7 @@ Explore the powerful Data Integrity Suite Geo Addressing APIs to enhance the acc
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.2 Now you can export the collection from the web browser
 
+<br>
 <br>
 <img src="https://user-images.githubusercontent.com/86220719/221712170-98cc1540-5d81-4510-82e5-7ca48d90010d.png" width="90%" height="80%"
      
