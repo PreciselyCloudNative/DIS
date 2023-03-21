@@ -46,22 +46,26 @@ Explore the powerful Data Integrity Suite Geo Addressing APIs to enhance the acc
 <br>
 <br>
 <img src="https://user-images.githubusercontent.com/86220719/221712170-98cc1540-5d81-4510-82e5-7ca48d90010d.png" width="90%" height="80%"
-     
+<br>     
 <br>
-<img src="https://user-images.githubusercontent.com/86220719/221712173-38003161-132b-46fe-9714-d04bd80eb569.png" width="90%" height="80%">
 
+<img src="https://user-images.githubusercontent.com/86220719/221712173-38003161-132b-46fe-9714-d04bd80eb569.png" width="90%" height="80%">
 <br>
+<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.3 Now you can import that collection in your Postman
 
 
 <br>
 <img src="https://user-images.githubusercontent.com/86220719/221712175-c0190be1-e035-4377-9b8d-6e75e2000e30.png" width="90%" height="80%">
 <br>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Now you have the Data Integrity Suite Geo Addressing collection in your Postman.
 
 <br>
 <img src="https://user-images.githubusercontent.com/86220719/221712178-0e802e35-f892-486c-96fc-138c67c9235a.png" width="90%" height="80%">
+<br>
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2 Now you need to add the values of the `{{api_key}}` and `{{api_secret}}` to the variables CURRENT VALUE in the collection and save it.
@@ -70,6 +74,7 @@ Explore the powerful Data Integrity Suite Geo Addressing APIs to enhance the acc
 
 <br>
 <img src="https://user-images.githubusercontent.com/86220719/221714261-9a87511a-c3f6-43e0-9d3d-0017369dbc65.png" width="90%" height="80%">
+<br>
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3 Now you can Generate Token.
@@ -81,6 +86,7 @@ Explore the powerful Data Integrity Suite Geo Addressing APIs to enhance the acc
 <br>
 <img src="https://user-images.githubusercontent.com/86220719/221723495-260b3864-f0be-47a9-948e-a3286a6f1e01.png" width="90%" height="80%">
 <br>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.4 You can now hit the send button and get responses from the services.
 
@@ -88,6 +94,7 @@ Explore the powerful Data Integrity Suite Geo Addressing APIs to enhance the acc
 
 <br>
 <img src="https://user-images.githubusercontent.com/86220719/221723497-7d9d9261-4073-4114-a955-46d737c49b7c.png" width="90%" height="80%">
+<br>
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You can similarly get responses for all the services in the collection.
